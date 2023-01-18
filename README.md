@@ -44,7 +44,8 @@
   </summary><br>
   Neste projeto, foi verificado como:
 
-* Aplicar e desenvolver um sistema que permite visualizar, buscar, filtrar, favoritar, compartilhar e acompanhar o processo de preparação de receitas e drinks. A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas;
-* O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores;
-* Cobertura de testes, código deve ser testável, e deve possuir uma suite de testes robusta e com alta cobertura;
+* A aderência aos princípios SOLID;
+* A aderência ao padrão REST na API;  
+* A cobertura de testes. Seu código deve ser testável e possuir uma suíte de testes unitários e/ou de integração robusta e com alta cobertura;
+* A organização do seu código e a arquitetura geral da aplicação (tanto da API quando do front-end);
 
